@@ -1,0 +1,14 @@
+D:\Backend_Projects\Ministore\bin\Debug\net10.0\MiniStore.exe
+D:\Backend_Projects\Ministore\bin\Debug\net10.0\MiniStore.deps.json
+D:\Backend_Projects\Ministore\bin\Debug\net10.0\MiniStore.runtimeconfig.json
+D:\Backend_Projects\Ministore\bin\Debug\net10.0\MiniStore.dll
+D:\Backend_Projects\Ministore\bin\Debug\net10.0\MiniStore.pdb
+D:\Backend_Projects\Ministore\obj\Debug\net10.0\MiniStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend_Projects\Ministore\obj\Debug\net10.0\MiniStore.AssemblyInfoInputs.cache
+D:\Backend_Projects\Ministore\obj\Debug\net10.0\MiniStore.AssemblyInfo.cs
+D:\Backend_Projects\Ministore\obj\Debug\net10.0\MiniStore.csproj.CoreCompileInputs.cache
+D:\Backend_Projects\Ministore\obj\Debug\net10.0\MiniStore.dll
+D:\Backend_Projects\Ministore\obj\Debug\net10.0\refint\MiniStore.dll
+D:\Backend_Projects\Ministore\obj\Debug\net10.0\MiniStore.pdb
+D:\Backend_Projects\Ministore\obj\Debug\net10.0\MiniStore.genruntimeconfig.cache
+D:\Backend_Projects\Ministore\obj\Debug\net10.0\ref\MiniStore.dll
